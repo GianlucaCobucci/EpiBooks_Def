@@ -1,3 +1,9 @@
+NOTE PER MARCO
+
+Il progetto è stato fatto senza Redux. Non mi sentivo in grado di usarlo. Ho usato solamente gli strumenti che ho compreso e che sapevo utilizzare.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
