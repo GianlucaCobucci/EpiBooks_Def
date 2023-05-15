@@ -1,4 +1,4 @@
-NOTE PER MARCO
+!NOTA PER MARCO!
 
 Il progetto è stato fatto senza Redux. Non mi sentivo in grado di usarlo. Ho usato solamente gli strumenti che ho compreso e che sapevo utilizzare.
 
